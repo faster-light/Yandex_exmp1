@@ -1,0 +1,7 @@
+﻿  exmp_3.cpp
+c:\users\ivan\projects\yandex_exmp1\exmp_3\exmp_3.cpp(52): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ivan\projects\yandex_exmp1\exmp_3\exmp_3.cpp(53): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ivan\projects\yandex_exmp1\exmp_3\exmp_3.cpp(94): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ivan\projects\yandex_exmp1\exmp_3\exmp_3.cpp(122): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ivan\projects\yandex_exmp1\exmp_3\exmp_3.cpp(133): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  exmp_3.vcxproj -> C:\Users\Ivan\Projects\Yandex_exmp1\x64\Debug\exmp_3.exe
