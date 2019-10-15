@@ -1,0 +1,4 @@
+﻿  Yandex_Challenge_2.cpp
+c:\users\ivan\projects\yandex_exmp1\yandex_challenge_2\yandex_challenge_2.cpp(19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\ivan\projects\yandex_exmp1\yandex_challenge_2\yandex_challenge_2.cpp(57): warning C4715: perebor: значение возвращается не при всех путях выполнения
+  Yandex_Challenge_2.vcxproj -> C:\Users\Ivan\Projects\Yandex_exmp1\x64\Debug\Yandex_Challenge_2.exe
